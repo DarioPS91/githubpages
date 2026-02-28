@@ -13,19 +13,21 @@
       <pubDate>Sat, 28 Feb 2026 14:00:00 GMT</pubDate>
       <category>Acadèmic</category>
     </item>
-    
-    <item>
-      <title>Obertura de la preinscripció per al curs 2026-2027</title>
-      <description>Ja podeu consultar el calendari i els requisits per a la preinscripció de Cicles Formatius d'FP i Batxillerat. No et quedis sense la teva plaça.</description>
-      <link>https://ioc.xtec.cat/portal/preinscripcio-fp</link>
-      <pubDate>Mon, 23 Feb 2026 09:00:00 GMT</pubDate>
-    </item>
 
     <item>
       <title>Publicat el calendari de les proves de validació</title>
-      <description>Els horaris i centres per a les proves presencials del primer semestre ja estan disponibles a la secretaria virtual per a tots els alumnes matriculats.</description>
+      <description>Els horaris i centres per a les proves presencials del primer semestre ja estan disponibles a la secretaria virtual.</description>
       <link>https://ioc.xtec.cat/portal/proves-validacio</link>
       <pubDate>Thu, 26 Feb 2026 12:30:00 GMT</pubDate>
+      <category>Exàmens</category>
+    </item>
+
+    <item>
+      <title>Obertura de la preinscripció per al curs 2026-2027</title>
+      <description>Ja podeu consultar el calendari i els requisits per a la preinscripció de Cicles Formatius i Batxillerat.</description>
+      <link>https://ioc.xtec.cat/portal/preinscripcio-fp</link>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 GMT</pubDate>
+      <category>Administració</category>
     </item>
 
   </channel>
